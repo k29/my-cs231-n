@@ -1,1 +1,4 @@
-# my-cs231-n
+# My Notes from Stanford CS213 N class on CNN
+
+
+
