@@ -15,7 +15,8 @@ def predict(model, test_images):
     return test_lables
 ```
 
-### Nearest Neighbour classifier
-* During training, just remember all the trainging images and their labels
-* During prediction, output the label of the most similar trainging image
+### Nearest Neighbor classifier
+* During training, just remember all the training images and their labels
+* During prediction, output the label of the most similar training image
 
+![Nearest Neighbor](images/NN.png)
