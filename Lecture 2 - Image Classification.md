@@ -9,4 +9,13 @@
 def train(train_images, train_labels):
     #build model for images -> labels
     return model
+
+def predict(model, test_images):
+    #predict test labels using the model
+    return test_lables
 ```
+
+### Nearest Neighbour classifier
+* During training, just remember all the trainging images and their labels
+* During prediction, output the label of the most similar trainging image
+
