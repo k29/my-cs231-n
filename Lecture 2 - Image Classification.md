@@ -23,4 +23,3 @@ def predict(model, test_images):
 
 To find the most similar images in the training set, compare the images using L1 distance. That is since the images are just blocks of 32x32x3 pixels, compare them pixel by pixel and add up all the differences.
 
-$ \sum_{\forall i}{x_i^{2}} $
